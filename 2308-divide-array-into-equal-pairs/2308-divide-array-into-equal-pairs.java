@@ -7,7 +7,7 @@ class Solution {
 
         while(right < nums.length){
             if(nums[right] != nums[left]){
-                System.out.println("left" + " " + left + " " + "right" + " " + right);
+                // System.out.println("left" + " " + left + " " + "right" + " " + right);
                 if((right - left)% 2 != 0){
                     return false;
                 }

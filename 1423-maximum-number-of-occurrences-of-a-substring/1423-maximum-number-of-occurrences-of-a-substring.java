@@ -9,7 +9,7 @@ class Solution {
 
        while(right < s.length()){
           cMap.put(s.charAt(right) , cMap.getOrDefault(s.charAt(right),0)+1);
-          while(cMap.size() > maxLetters || right - left + 1 > minSize ){
+          if(cMap.size() > maxLetters || right - left + 1 > minSize ){
             cMap.put(s.charAt(left),cMap.get(s.charAt(left))-1);
             if(cMap.get(s.charAt(left))==0){
                 cMap.remove(s.charAt(left));

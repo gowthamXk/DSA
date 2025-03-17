@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int right = 1;
         int left = 0;
-        System.out.print(Arrays.toString(nums));
+        
 
         while(right < nums.length){
             if(nums[right] != nums[left]){

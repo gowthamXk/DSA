@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
@@ -63,9 +64,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

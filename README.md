@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -99,4 +101,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gowthamXk/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

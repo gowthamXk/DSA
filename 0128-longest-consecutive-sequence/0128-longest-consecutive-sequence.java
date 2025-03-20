@@ -10,7 +10,7 @@ class Solution {
         int MaxLength = 1;
         int count = 1;
 
-        System.out.print(Arrays.toString(nums));
+      
         while(j < nums.length){
         
            if(nums[i] == nums[j]){

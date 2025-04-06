@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |

@@ -4,27 +4,21 @@ class Solution {
 
         
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
-
-        List<int[]> merged = new ArrayList<>();
-        int[] current = intervals[0];
-        merged.add(current);
-
         
-        for (int i = 1; i < intervals.length; i++) {
-            int currentEnd = current[1];
-            int nextStart = intervals[i][0];
-            int nextEnd = intervals[i][1];
+       List<int[]> merged = new ArrayList<>();
+       merged.add(intervals[0]);
 
-            if (nextStart <= currentEnd) { 
-                current[1] = Math.max(currentEnd, nextEnd); 
-            } else {
-                current = intervals[i]; 
-                merged.add(current);
-            }
+       for(int i = 1 ; i < intervals.length ; i++){
+        if(intervals[i][0] > merged.get(merged.size()-1)[1]){
+            merged.add((intervals[i]));
         }
-
-        
-        return merged.toArray(new int[merged.size()][]);
+        else{
+           int[] current = merged.get(merged.size() - 1);
+           current[1] = Math.max(current[1] , intervals[i][1]);
+           merged.set(merged.size() - 1 , current);
+        }
+       }
+       return merged.toArray(new int[merged.size()][]);
     }
 
     }

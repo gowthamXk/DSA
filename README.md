@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/gowthamXk/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/gowthamXk/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/gowthamXk/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gowthamXk/DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/gowthamXk/DSA/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |

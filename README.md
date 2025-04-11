@@ -127,6 +127,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

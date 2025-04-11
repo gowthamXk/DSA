@@ -10,10 +10,11 @@ class Solution {
             int sum2 = 0;
             for(int j = 0 ; j < full.length()/2 ; j++ ){
                 sum1 = sum1 + Integer.parseInt(String.valueOf(full.charAt(j)));
+                sum2 = sum2 + Integer.parseInt(String.valueOf(full.charAt(full.length()/2 + j)));
             }
-            for(int k = full.length()/2 ; k < full.length() ; k++){
-                 sum2 = sum2 + Integer.parseInt(String.valueOf(full.charAt(k)));
-            }
+            // for(int k = full.length()/2 ; k < full.length() ; k++){
+            //      sum2 = sum2 + Integer.parseInt(String.valueOf(full.charAt(k)));
+            // }
 
             if(sum1 == sum2){
                 count++;

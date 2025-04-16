@@ -23,6 +23,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/gowthamXk/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gowthamXk/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -40,6 +41,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/gowthamXk/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gowthamXk/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -71,6 +73,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gowthamXk/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |

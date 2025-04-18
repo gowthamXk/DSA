@@ -21,6 +21,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1656-count-good-triplets](https://github.com/gowthamXk/DSA/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |

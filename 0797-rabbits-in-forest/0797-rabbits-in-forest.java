@@ -17,17 +17,17 @@ class Solution {
             int same = hm.get(answers[i]) / freq ;
             rabbit = rabbit + (same * freq);
             rem = (hm.get(answers[i]) % freq);
-            // System.out.println(rabbit + " before");
+           
             if(rem > 0){
             rabbit = rabbit + freq;
-            // System.out.println(rabbit + " after");
+            
             }
             hm.remove(answers[i]);
             
         }
         else if (hm.get(answers[i]) != null && hm.get(answers[i]) <= freq ){
             rabbit = rabbit + freq;
-            System.out.println("hi");
+            
             hm.remove(answers[i]);
         }
        

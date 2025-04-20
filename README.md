@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
+| [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1656-count-good-triplets](https://github.com/gowthamXk/DSA/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -39,6 +40,7 @@
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
+| [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming
@@ -142,6 +145,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Enumeration
 |  |

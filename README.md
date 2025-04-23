@@ -43,6 +43,7 @@
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
 ## Dynamic Programming

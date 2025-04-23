@@ -2,27 +2,29 @@ class Solution {
     public int countLargestGroup(int n) {
         int group = 0;
         int max = 0;
-        HashMap<Integer , Integer > hm =new HashMap<>();
+        int[] arr = new int[40];
 
         for(int i = 1 ; i <= n ; i++){
 
             int digit = SumDigit(i);
-            
-            
-            hm.put( digit, hm.getOrDefault( digit , 0) + 1);
-            max = Math.max(max , hm.get(digit));
+            ++arr[digit];
+            if(max < arr[digit]){
+                max = arr[digit];
+                group = 1;
+            }
+            else if(max == arr[digit] ){
+                group++;
+            }
+
 
             
         }
+      
         
-        for (Integer value : hm.values()) {
-            if(value.equals(max)){
-                group++;
-            }
-}
     return group;
- 
     }
+ 
+    
     public int SumDigit(int num){
         int sum = 0;
         while(num > 0){

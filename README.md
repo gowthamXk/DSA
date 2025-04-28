@@ -24,6 +24,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -80,6 +81,7 @@
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gowthamXk/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |

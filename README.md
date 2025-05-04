@@ -20,6 +20,7 @@
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/gowthamXk/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gowthamXk/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/gowthamXk/DSA/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -48,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/gowthamXk/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/gowthamXk/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |

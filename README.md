@@ -32,6 +32,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/gowthamXk/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gowthamXk/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/gowthamXk/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3430-count-days-without-meetings](https://github.com/gowthamXk/DSA/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gowthamXk/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/gowthamXk/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Enumeration
 |  |
 | ------- |

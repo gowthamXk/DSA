@@ -190,6 +190,7 @@
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/gowthamXk/DSA/tree/master/0386-lexicographical-numbers) |
 | [2339-k-divisible-elements-subarrays](https://github.com/gowthamXk/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 ## Rolling Hash
 |  |
@@ -199,4 +200,8 @@
 |  |
 | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/gowthamXk/DSA/tree/master/2339-k-divisible-elements-subarrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/gowthamXk/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

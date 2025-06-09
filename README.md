@@ -23,6 +23,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gowthamXk/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/gowthamXk/DSA/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gowthamXk/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1646-kth-missing-positive-number](https://github.com/gowthamXk/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/gowthamXk/DSA/tree/master/1656-count-good-triplets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
+| [1646-kth-missing-positive-number](https://github.com/gowthamXk/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |

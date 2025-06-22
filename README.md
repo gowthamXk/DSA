@@ -85,6 +85,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gowthamXk/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/gowthamXk/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Queue
 |  |

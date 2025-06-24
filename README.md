@@ -29,6 +29,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2339-k-divisible-elements-subarrays](https://github.com/gowthamXk/DSA/tree/master/2339-k-divisible-elements-subarrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/gowthamXk/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
@@ -108,6 +109,7 @@
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search
 |  |
 | ------- |

@@ -164,6 +164,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gowthamXk/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowthamXk/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/gowthamXk/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/gowthamXk/DSA/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -233,4 +235,12 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

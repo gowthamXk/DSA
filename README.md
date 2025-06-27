@@ -6,6 +6,7 @@
 | ------- |
 | [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/gowthamXk/DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/gowthamXk/DSA/tree/master/0056-merge-intervals) |
@@ -253,6 +254,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gowthamXk/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/gowthamXk/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/gowthamXk/DSA/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/gowthamXk/DSA/tree/master/0216-combination-sum-iii) |

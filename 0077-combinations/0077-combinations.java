@@ -1,8 +1,8 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
         HashSet<List<Integer>> set = combo( 1 , n , k , new HashSet<List<Integer>>() , new ArrayList<>());
-        List<List<Integer>> ans = new ArrayList<>(set);
-        return ans;
+        
+        return new ArrayList<>(set);
     }
     public HashSet<List<Integer>> combo(int i , int n , int k , HashSet<List<Integer>> sets , List<Integer> li ){
         if( i > n ){

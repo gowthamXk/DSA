@@ -247,4 +247,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/gowthamXk/DSA/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->

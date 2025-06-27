@@ -1,7 +1,8 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> allSubsets = new ArrayList<>();
-        return new ArrayList<>(comb3 (1 , n , k , new ArrayList<>() ,allSubsets ));
+        comb3 (1 , n , k , new ArrayList<>() ,allSubsets);
+        return allSubsets ;
     }
     public List<List<Integer>> comb3 (int i , int n , int k , List<Integer> li , List<List<Integer>> set){
         if(i > 9){

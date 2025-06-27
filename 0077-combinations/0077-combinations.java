@@ -8,7 +8,6 @@ class Solution {
         if( i > n ){
             if(li.size() == k){
                 sets.add(new ArrayList<Integer>(li));
-                return sets;
             }
             return sets;
         }

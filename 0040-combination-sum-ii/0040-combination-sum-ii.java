@@ -8,15 +8,15 @@ class Solution {
         
     }
     public  HashSet<List<Integer>> func(int [] arr , int i ,List<Integer> li ,HashSet<List<Integer>> allSubsets , int target){
-        
+        if(i >= arr.length){
             if(target == 0){
                 
                 allSubsets.add(new ArrayList<>(li));
-
+            }
             return allSubsets;
             }
         
-        if(target < 0 || i >= arr.length){
+        if(target < 0){
             return allSubsets;
         }
         if(arr[i] <= target){

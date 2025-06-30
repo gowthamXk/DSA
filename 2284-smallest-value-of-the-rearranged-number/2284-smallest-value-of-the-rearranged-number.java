@@ -8,7 +8,7 @@ class Solution {
             temp = temp/10;
         }
         Collections.sort(digit);
-        System.out.println(digit);
+        
        
         if(num > 0){
         for(int i = 0 ; i < digit.size() ; i++){

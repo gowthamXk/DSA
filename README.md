@@ -133,6 +133,7 @@
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/gowthamXk/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/gowthamXk/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/gowthamXk/DSA/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
@@ -180,6 +181,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowthamXk/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/gowthamXk/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gowthamXk/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming

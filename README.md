@@ -77,6 +77,7 @@
 | ------- |
 | [0078-subsets](https://github.com/gowthamXk/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gowthamXk/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/gowthamXk/DSA/tree/master/0191-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowthamXk/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/gowthamXk/DSA/tree/master/2478-longest-nice-subarray) |
@@ -234,6 +235,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/gowthamXk/DSA/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |

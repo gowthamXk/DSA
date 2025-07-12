@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowthamXk/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/gowthamXk/DSA/tree/master/0040-combination-sum-ii) |
@@ -52,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gowthamXk/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gowthamXk/DSA/tree/master/0128-longest-consecutive-sequence) |

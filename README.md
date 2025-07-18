@@ -22,6 +22,7 @@
 | [0216-combination-sum-iii](https://github.com/gowthamXk/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/gowthamXk/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -142,6 +144,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
 ## Matrix
@@ -162,6 +165,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gowthamXk/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -273,4 +277,8 @@
 | [0078-subsets](https://github.com/gowthamXk/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gowthamXk/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/gowthamXk/DSA/tree/master/0216-combination-sum-iii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

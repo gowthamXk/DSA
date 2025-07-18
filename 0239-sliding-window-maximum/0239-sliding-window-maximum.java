@@ -19,7 +19,7 @@ class Solution {
                 li.add(max);
                
                     
-                    System.out.println();
+              
                 if(nums[left] == max && left == maxIdx){
                
                     for(int i = left + 1 ; i <= right ; i++){

@@ -98,6 +98,7 @@
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/gowthamXk/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gowthamXk/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sliding Window
@@ -122,6 +123,7 @@
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/gowthamXk/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/gowthamXk/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Binary Search

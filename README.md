@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/gowthamXk/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
+| [0506-relative-ranks](https://github.com/gowthamXk/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
@@ -138,6 +139,7 @@
 | [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/gowthamXk/DSA/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/gowthamXk/DSA/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/gowthamXk/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/gowthamXk/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/gowthamXk/DSA/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/gowthamXk/DSA/tree/master/0948-sort-an-array) |
 ## Matrix

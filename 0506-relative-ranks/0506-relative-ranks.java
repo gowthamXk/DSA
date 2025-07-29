@@ -4,11 +4,7 @@ class Solution {
         
         ArrayList<Integer> li = new ArrayList<>();
         String[]dummy = new String[arr.length];
-        for(int i = 0 ; i < arr.length ; i++){
-            dummy[i] = String.valueOf(arr[i]);
-            li.add(arr[i]);
-        } 
-        if(arr.length == 1){
+         if(arr.length == 1){
             dummy[0] = "Gold Medal";
             return dummy;
         }
@@ -21,8 +17,14 @@ class Solution {
                 dummy[0] = "Silver Medal";
                 dummy[1] = "Gold Medal";
             }
+            return dummy;
 
         }
+        for(int i = 0 ; i < arr.length ; i++){
+            dummy[i] = String.valueOf(arr[i]);
+            li.add(arr[i]);
+        } 
+       
         Arrays.sort(arr);
         if(arr.length > 3){
         for(int i = 0 ; i < arr.length - 3 ; i++){

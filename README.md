@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gowthamXk/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/gowthamXk/DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gowthamXk/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -98,6 +99,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gowthamXk/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/gowthamXk/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -191,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/gowthamXk/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/gowthamXk/DSA/tree/master/0048-rotate-image) |
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/gowthamXk/DSA/tree/master/1013-fibonacci-number) |

@@ -300,4 +300,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gowthamXk/DSA/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gowthamXk/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

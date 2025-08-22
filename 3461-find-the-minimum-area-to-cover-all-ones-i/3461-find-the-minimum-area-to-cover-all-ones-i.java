@@ -13,7 +13,7 @@ class Solution {
         boolean vertical = false;
         
         for(int i = 0 ; i < grid.length ; i++){
-            // boolean seen = false;
+           
             for(int j = 0 ; j < grid[0].length ; j++){
                 if(grid[i][j] == 1){
                     
@@ -21,8 +21,7 @@ class Solution {
                     max = Math.max(max , i + 1);
                     System.out.println(min + " " + max);
                     v = max - min + 1; 
-                    // vertical = true;
-                    // seen = true;
+                   
                     
                 }
                 
@@ -30,11 +29,11 @@ class Solution {
 
                     min1 = Math.min(min1 , j + 1);
                     max1 = Math.max(max1 , j + 1);
-                    // System.out.println(min1 + " " + max1);
+                    
                     h = max1 - min1 + 1;  
 
                 }  
-                // System.out.println("v = " + v + " h = " + h);
+                
                 
                 
                

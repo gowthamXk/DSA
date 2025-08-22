@@ -19,7 +19,7 @@ class Solution {
                     
                     min = Math.min(min , i + 1);
                     max = Math.max(max , i + 1);
-                    System.out.println(min + " " + max);
+                    
                     v = max - min + 1; 
                    
                     

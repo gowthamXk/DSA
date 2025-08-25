@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/gowthamXk/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/gowthamXk/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0498-diagonal-traverse](https://github.com/gowthamXk/DSA/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/gowthamXk/DSA/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/gowthamXk/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
@@ -167,12 +168,14 @@
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/gowthamXk/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/gowthamXk/DSA/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/gowthamXk/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/gowthamXk/DSA/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gowthamXk/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gowthamXk/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |

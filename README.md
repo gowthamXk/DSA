@@ -70,6 +70,7 @@
 | [0797-rabbits-in-forest](https://github.com/gowthamXk/DSA/tree/master/0797-rabbits-in-forest) |
 | [1034-subarrays-with-k-different-integers](https://github.com/gowthamXk/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/gowthamXk/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/gowthamXk/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/gowthamXk/DSA/tree/master/2308-divide-array-into-equal-pairs) |
@@ -105,6 +106,7 @@
 | [0038-count-and-say](https://github.com/gowthamXk/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/gowthamXk/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/gowthamXk/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |

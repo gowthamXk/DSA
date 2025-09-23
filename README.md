@@ -105,6 +105,7 @@
 | [0012-integer-to-roman](https://github.com/gowthamXk/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/gowthamXk/DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/gowthamXk/DSA/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/gowthamXk/DSA/tree/master/0165-compare-version-numbers) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gowthamXk/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gowthamXk/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/gowthamXk/DSA/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0018-4sum](https://github.com/gowthamXk/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/gowthamXk/DSA/tree/master/0031-next-permutation) |
+| [0165-compare-version-numbers](https://github.com/gowthamXk/DSA/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/gowthamXk/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/gowthamXk/DSA/tree/master/0658-find-k-closest-elements) |
 | [1739-split-two-strings-to-make-palindrome](https://github.com/gowthamXk/DSA/tree/master/1739-split-two-strings-to-make-palindrome) |

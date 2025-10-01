@@ -3,7 +3,7 @@ class Solution {
        int canDrink = numBottles;
        int rem = (numBottles / numExchange);
        int remBottles = rem + (numBottles - (rem * numExchange));
-       System.out.println(rem + " " + canDrink);
+       
 
        while(remBottles >= numExchange){
         canDrink += rem;

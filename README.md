@@ -183,6 +183,7 @@
 | [0054-spiral-matrix](https://github.com/gowthamXk/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gowthamXk/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/gowthamXk/DSA/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/gowthamXk/DSA/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/gowthamXk/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gowthamXk/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/gowthamXk/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -212,6 +213,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/gowthamXk/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gowthamXk/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/gowthamXk/DSA/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/gowthamXk/DSA/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/gowthamXk/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/gowthamXk/DSA/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2998-count-symmetric-integers](https://github.com/gowthamXk/DSA/tree/master/2998-count-symmetric-integers) |
